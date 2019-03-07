@@ -34,7 +34,7 @@ namespace TraceConsole
 
         public string hopIP;
 
-        public bool hasReached = false;
+       // public bool hasReached = false;
 
         public MyTraceroute(string IPOrName)
         {
