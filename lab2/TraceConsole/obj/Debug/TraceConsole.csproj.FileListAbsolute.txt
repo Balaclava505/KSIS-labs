@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\sharp\TraceConsole\TraceConsole\bin\Debug\TraceConsole.exe.config
+C:\Users\user\Desktop\sharp\TraceConsole\TraceConsole\bin\Debug\TraceConsole.exe
+C:\Users\user\Desktop\sharp\TraceConsole\TraceConsole\bin\Debug\TraceConsole.pdb
+C:\Users\user\Desktop\sharp\TraceConsole\TraceConsole\obj\Debug\TraceConsole.csprojAssemblyReference.cache
+C:\Users\user\Desktop\sharp\TraceConsole\TraceConsole\obj\Debug\TraceConsole.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\sharp\TraceConsole\TraceConsole\obj\Debug\TraceConsole.exe
+C:\Users\user\Desktop\sharp\TraceConsole\TraceConsole\obj\Debug\TraceConsole.pdb
