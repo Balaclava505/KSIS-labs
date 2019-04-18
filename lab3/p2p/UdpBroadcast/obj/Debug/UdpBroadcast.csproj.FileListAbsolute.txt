@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\УНИВЕР\4-sem\sharp\UdpChat\UdpBroadcast\UdpBroadcast\bin\Debug\UdpBroadcast.exe.config
+C:\Users\user\Desktop\УНИВЕР\4-sem\sharp\UdpChat\UdpBroadcast\UdpBroadcast\bin\Debug\UdpBroadcast.exe
+C:\Users\user\Desktop\УНИВЕР\4-sem\sharp\UdpChat\UdpBroadcast\UdpBroadcast\bin\Debug\UdpBroadcast.pdb
+C:\Users\user\Desktop\УНИВЕР\4-sem\sharp\UdpChat\UdpBroadcast\UdpBroadcast\obj\Debug\UdpBroadcast.csprojAssemblyReference.cache
+C:\Users\user\Desktop\УНИВЕР\4-sem\sharp\UdpChat\UdpBroadcast\UdpBroadcast\obj\Debug\UdpBroadcast.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\УНИВЕР\4-sem\sharp\UdpChat\UdpBroadcast\UdpBroadcast\obj\Debug\UdpBroadcast.exe
+C:\Users\user\Desktop\УНИВЕР\4-sem\sharp\UdpChat\UdpBroadcast\UdpBroadcast\obj\Debug\UdpBroadcast.pdb
+C:\Users\user\Desktop\УНИВЕР\4-sem\sharp\UdpChat\UdpBroadcast2\UdpBroadcast\bin\Debug\UdpBroadcast.exe.config
+C:\Users\user\Desktop\УНИВЕР\4-sem\sharp\UdpChat\UdpBroadcast2\UdpBroadcast\bin\Debug\UdpBroadcast.exe
+C:\Users\user\Desktop\УНИВЕР\4-sem\sharp\UdpChat\UdpBroadcast2\UdpBroadcast\bin\Debug\UdpBroadcast.pdb
+C:\Users\user\Desktop\УНИВЕР\4-sem\sharp\UdpChat\UdpBroadcast2\UdpBroadcast\obj\Debug\UdpBroadcast.csprojAssemblyReference.cache
+C:\Users\user\Desktop\УНИВЕР\4-sem\sharp\UdpChat\UdpBroadcast2\UdpBroadcast\obj\Debug\UdpBroadcast.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\УНИВЕР\4-sem\sharp\UdpChat\UdpBroadcast2\UdpBroadcast\obj\Debug\UdpBroadcast.exe
+C:\Users\user\Desktop\УНИВЕР\4-sem\sharp\UdpChat\UdpBroadcast2\UdpBroadcast\obj\Debug\UdpBroadcast.pdb
